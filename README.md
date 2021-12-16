@@ -8,3 +8,7 @@ Links:
 ## Fuente
 
 Ver: https://github.com/tecsci/electrophoresis-power-supply
+
+## Otros diseños
+
+Parametric Gel Electrophoresis System: http://www.docubricks.com/viewer.jsp?id=3540694571097352192
